@@ -4,6 +4,7 @@ This repository contains slides / links to slides for talks given at Chicago Pyt
 
 ## `__main__` Meeting
 
+[September 2019](2019.09-__main__-meeting/)
 [October 2019](2019.10-__main__-meeting/)
 
 ## Contributing
